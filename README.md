@@ -1,7 +1,7 @@
 # Kodluyoruz Bootcamp - Homeworks
 
 ```
-You can access my React assignments from the links below.
+
 ```
 
 #### HomeWork 1 : [Click to view](https://alikartalonline-week1.netlify.app/)
