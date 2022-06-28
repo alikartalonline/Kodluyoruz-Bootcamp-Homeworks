@@ -12,5 +12,10 @@
 
 <br>
 <hr>
+<br>
 
+#### HomeWork 2 : [Click to view](https://alikartalonline-week2.netlify.app/)
 
+<br>
+
+![week2](https://github.com/alikartalonline/Kodluyoruz-Bootcamp-Homeworks/blob/main/Homework-Week-2/assets/week2.png)
