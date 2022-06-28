@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+table > thead > tr > th {
+color: red;
+cursor: pointer;
+}
+
+table > thead > tr > th:hover {
+  color: blue;
+  }
