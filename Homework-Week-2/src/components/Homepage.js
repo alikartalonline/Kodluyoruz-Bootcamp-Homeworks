@@ -43,8 +43,6 @@ function Homepage() {
     // Sort Reset Method
     const sortReset = () => {
         axios("https://jsonplaceholder.typicode.com/todos")
-            // Birinci Method = reverse() / İkinci Method = sort()
-            // .then(res => setTitle(res.data.slice(0,50).reverse())) 
             .then(res => setTitle(res.data.sort((a, b) => a.id - b.id)))
             .catch(e => console.log("error:", e))
         setLoading(false)

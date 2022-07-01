@@ -14,7 +14,8 @@
 <hr>
 <br>
 
-#### HomeWork 2 : [Click to view](https://alikartalonline-week2.netlify.app/)
+##### HomeWork 2 : [Click to view](https://alikartalonline-week2.netlify.app/)
+#### HomeWork 2 (update) : [Click to view](https://alikartalonline-week22.netlify.app/)
 
 <br>
 
