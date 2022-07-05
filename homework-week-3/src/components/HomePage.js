@@ -11,13 +11,13 @@ function HomePage() {
 
 
     const renderAppStatus = () => {
-        if (status == "tableFn") {
+        if (status === "tableFn") {
             return (
                 <>
                     <TableFn themeProp={theme} />
                 </>
             )
-        } else if (status == "tableClass") {
+        } else if (status === "tableClass") {
             return (
                 <>
                     <TableClass theme={theme} />
