@@ -3,4 +3,4 @@
 <hr>
 <br>
 
-![week2](https://github.com/alikartalonline/Kodluyoruz-Bootcamp-Homeworks/blob/main/homework-week-3/gif/week3.gif)
+![week3](https://github.com/alikartalonline/Kodluyoruz-Bootcamp-Homeworks/blob/main/homework-week-3/gif/week3.gif)
