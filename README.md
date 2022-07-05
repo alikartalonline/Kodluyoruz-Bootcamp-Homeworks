@@ -14,9 +14,20 @@
 <hr>
 <br>
 
-##### HomeWork 2 : [Click to view](https://alikartalonline-week2.netlify.app/)
-#### HomeWork 2 (update) : [Click to view](https://alikartalonline-week22.netlify.app/)
+#### HomeWork 2 : [Click to view](https://alikartalonline-week22.netlify.app/)
 
 <br>
 
 ![week2](https://github.com/alikartalonline/Kodluyoruz-Bootcamp-Homeworks/blob/main/Homework-Week-2/assets/week2.png)
+
+
+<br>
+<hr>
+<br>
+
+#### HomeWork 3 : [Click to view](https://alikartalonline-week3.netlify.app/)
+
+<hr>
+<br>
+
+![week3](https://github.com/alikartalonline/Kodluyoruz-Bootcamp-Homeworks/blob/main/homework-week-3/gif/week3.gif)
