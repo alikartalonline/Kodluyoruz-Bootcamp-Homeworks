@@ -24,4 +24,4 @@ npm start
 <hr>
 <br>
 
-![week4](https://i.hizliresim.com/1iraf0d.gif)
+![week4](https://github.com/alikartalonline/Kodluyoruz-Bootcamp-Homeworks/blob/main/homework-week-4/assets/week4.gif)
